@@ -5,17 +5,26 @@ You play as a brave shovel-wielding knight on a quest to collect coins while nav
 
 ## 🎮 Gameplay
 -Play as a shovel knight on a mission to collect as many coins as possible!
+
 -Jump, run, and dodge obstacles to survive.
+
 -Use precise platforming skills to avoid spikes, pits, and other hazards.
+
 -Progress through multiple levels with increasing difficulty.
 
 ## 🎮 Features
 ✅ Built with Godot Engine 🏗️
+
 ✅ Retro-style pixel graphics with vibrant colors 🎨
+
 ✅ Smooth and responsive controls 🎮
+
 ✅ Multiple levels with unique designs 🏰
+
 ✅ Challenging platforming mechanics 🏆
+
 ✅ Collectible coins to increase your score 💰
+
 ✅ Classic 8-bit sound effects & music 🎵
 
 ## 🛠 How to Run
